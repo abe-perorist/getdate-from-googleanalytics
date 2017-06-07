@@ -1,7 +1,6 @@
 function analytics_dau() {
   // profile_idの指定
-  // 106697757は、Web_LP
-  var PROFILE_ID = "ga:106697757";
+  var PROFILE_ID = "{ここだよ！}";
 
   // metricsとdimensionの指定
   var metrics = "ga:sessions";
